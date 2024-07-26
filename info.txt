@@ -1,0 +1,7 @@
+./c/sysdep.h:193:25: error: fake/sigact.h: No such file or directory
+./c/sysdep.h:194:27: error: fake/strerror.h: No such file or directory
+./c/sysdep.h:195:29: error: fake/sys-select.h: No such file or directory
+./c/sysdep.h:196:26: error: fake/environ.h: No such file or directory
+./c/sysdep.h:197:27: error: fake/sysexits.h: No such file or directory
+./c/sysdep.h:198:27: error: fake/langinfo.h: No such file or directory
+
